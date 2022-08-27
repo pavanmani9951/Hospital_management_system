@@ -1,0 +1,97 @@
+.createpayrollpage .topheader {
+  width: 200px;
+  height: 50px;
+
+  display: flex;
+  align-items: center;
+}
+.createpayrollpage .topheader h5 {
+  margin: auto;
+}
+.createpayrollpage .topheader .fa-arrow-circle-o-right {
+  color: gray;
+}
+.createpayrollpage .first_section .btn-warning {
+  margin-top: 30px;
+  margin-left: 50px;
+  border-radius: 20px;
+  padding: 5px 30px;
+  font-size: 12px;
+}
+.createpayrollpage .fa-spinner {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+}
+.createpayrollpage .first_section .wrapper {
+  margin-top: 10px;
+  padding: 20px;
+
+  /* background-color: white; */
+  position: relative;
+  padding: 20px;
+  /* background-color: #d9e4eb; */
+}
+.createpayrollpage .seond_section .box {
+  margin-top: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* background-color: white; */
+  position: relative;
+  padding: 20px;
+  /* background-color: #d9e4eb; */
+}
+.createpayrollpage .disable {
+  display: none;
+}
+.createpayrollpage .delete_section .fa-trash {
+  color: red;
+
+  line-height: 50px;
+  cursor: pointer;
+}
+.createpayrollpage .seond_section .btn_section {
+  display: flex;
+  flex-direction: row;
+}
+.createpayrollpage .seond_section h6 {
+  font-size: 14px;
+}
+.createpayrollpage .seond_section label {
+  font-size: 12px;
+}
+.createpayrollpage .seond_section .btn-secondary {
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-size: 12px;
+}
+
+.createpayrollpage .seond_section .btn-info {
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-size: 12px;
+}
+.createpayrollpage .third_section .wrapper {
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.createpayrollpage .third_section h5 {
+  font-size: 14px;
+}
+.createpayrollpage .third_section label {
+  font-size: 12px;
+}
+.createpayrollpage .third_section .btn_section {
+  display: flex;
+  align-items: flex-end;
+}
+.createpayrollpage .third_section .btn-success {
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px 20px;
+  font-size: 12px;
+}
